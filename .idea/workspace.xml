@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ebcee02-62ec-4472-a64f-091b117a15ba" name="Changes" comment="finishing up">
-      <change afterPath="$PROJECT_DIR$/brain_data_channel_one.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/events_file_ordered.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/miniproject2" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/miniproject2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject2/README.md" afterDir="false" />
     </list>
@@ -79,7 +77,7 @@
       <workItem from="1736751546641" duration="48000" />
       <workItem from="1736927987333" duration="282000" />
       <workItem from="1736928276417" duration="12000" />
-      <workItem from="1736928516929" duration="8215000" />
+      <workItem from="1736928516929" duration="8536000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
