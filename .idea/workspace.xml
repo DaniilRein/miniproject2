@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ebcee02-62ec-4472-a64f-091b117a15ba" name="Changes" comment="First commit">
+    <list default="true" id="8ebcee02-62ec-4472-a64f-091b117a15ba" name="Changes" comment="finishing up">
       <change afterPath="$PROJECT_DIR$/brain_data_channel_one.csv" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/events_file_ordered.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/finger_data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mini_project_2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/mini_project_2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject2" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/miniproject2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/miniproject2/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +79,7 @@
       <workItem from="1736751546641" duration="48000" />
       <workItem from="1736927987333" duration="282000" />
       <workItem from="1736928276417" duration="12000" />
-      <workItem from="1736928516929" duration="5607000" />
+      <workItem from="1736928516929" duration="8215000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -91,7 +89,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736928736775</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Cleaning up after Hemda explained very clearly what is needed to be done.">
+      <option name="closed" value="true" />
+      <created>1736938029668</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736938029668</updated>
+    </task>
+    <task id="LOCAL-00003" summary="finishing up">
+      <option name="closed" value="true" />
+      <created>1736940497810</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736940497810</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +124,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+    <MESSAGE value="Cleaning up after Hemda explained very clearly what is needed to be done." />
+    <MESSAGE value="finishing up" />
+    <option name="LAST_COMMIT_MESSAGE" value="finishing up" />
   </component>
 </project>
