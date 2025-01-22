@@ -1,3 +1,5 @@
+# Daniil Sergeyenko 212925853
+
 # 'finger_data' is the file we processed with Hemda during the practice session.
 # We got the results as 'events_file_ordered' with the minima's, maxima's and finger number.
 
