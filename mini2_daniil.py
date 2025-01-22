@@ -1,4 +1,4 @@
-# 'finger_data' is the file we processed at the Tirgul.
+# 'finger_data' is the file we processed with Hemda during the practice session.
 # We got the results as 'events_file_ordered' with the minima's, maxima's and finger number.
 
 import pandas as pd
@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 def calc_mean_erp(trial_points, ecog_data):
     # Read CSV files
-    trial_df = pd.read_csv(trial_points).astype(int)  # Only this CSV onverted to int, as specified
+    trial_df = pd.read_csv(trial_points).astype(int)  # Only this CSV converted to int, as specified
     ecog_df = pd.read_csv(ecog_data)
 
     # Initialize output matrix (5 fingers long x 1201ms tall)
@@ -40,7 +40,7 @@ def calc_mean_erp(trial_points, ecog_data):
         # Store in output matrix (finger-1 because array is 0-based)
         fingers_erp_mean[finger-1] = finger_mean
 
-    # Plot averaged brain response for each of the five finger
+    # Plot averaged brain response for each of the five-finger
     plt.figure(figsize=(12, 6))
     time_points = np.arange(-200, 1001)
     for finger in range(5):
@@ -56,4 +56,4 @@ def calc_mean_erp(trial_points, ecog_data):
     return fingers_erp_mean
 
 # test using the provided data
-fingers_erp_mean = calc_mean_erp('events_file_ordered.csv', 'brain_data_channel_one.csv')
+matrix_results = calc_mean_erp('events_file_ordered.csv', 'brain_data_channel_one.csv')

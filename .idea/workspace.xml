@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ebcee02-62ec-4472-a64f-091b117a15ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mini2_daniil.py" afterDir="false" />
+    <list default="true" id="8ebcee02-62ec-4472-a64f-091b117a15ba" name="Changes" comment="Converted to .py file as instructed.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mini2_daniil.py" beforeDir="false" afterPath="$PROJECT_DIR$/mini2_daniil.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,7 @@
       <workItem from="1736927987333" duration="282000" />
       <workItem from="1736928276417" duration="12000" />
       <workItem from="1736928516929" duration="9045000" />
-      <workItem from="1737540165965" duration="157000" />
+      <workItem from="1737540165965" duration="407000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />
@@ -114,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736940921601</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Converted to .py file as instructed.">
+      <option name="closed" value="true" />
+      <created>1737540435305</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1737540435305</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +142,7 @@
     <MESSAGE value="First commit" />
     <MESSAGE value="Cleaning up after Hemda explained very clearly what is needed to be done." />
     <MESSAGE value="finishing up" />
-    <option name="LAST_COMMIT_MESSAGE" value="finishing up" />
+    <MESSAGE value="Converted to .py file as instructed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Converted to .py file as instructed." />
   </component>
 </project>
